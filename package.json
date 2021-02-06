@@ -1,0 +1,23 @@
+{
+  "name": "week-12-u-develop-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniwhitlock/U-Develop-It.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniwhitlock/U-Develop-It/issues"
+  },
+  "homepage": "https://github.com/daniwhitlock/U-Develop-It#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
